@@ -18,23 +18,10 @@ _What type of change is this? (Check all that are applicable)_
 
 - [ ] Bug fix
 - [ ] New feature
+- [ ] Infrastructure 
 - [ ] Code refactor
 - [ ] Breaking change
 - [ ] Documentation update
-
-## How has this change been tested? (If applicable)
-
-_If tests were ran to verify this change please describe them here. Provide instructions so the tests can be reproduced if needed. Please also provide relevant test configuration._
-
-- [ ] Test A
-- [ ] Test B
-
-**Test Configuration:**
-
-* Firmware version:
-* Hardware:
-* Toolchain:
-* SDK: 
 
 ## Checklist before requesting a review
 
@@ -47,3 +34,4 @@ _Before requesting a review you must have completed this checklist._
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Ensured my change works with any recent changes or updates in related components
+- [ ] I have added necessary monitoring to Datadog
