@@ -6,9 +6,9 @@ To create a new pull request you must fill in the template below.
 
 _Please describe your changes in detail._
 
-## Jira Issue
+## Issue
 
-_Please provide a link to the Jira issue._
+_Please provide a link to the issue._
 
 * Issue link: 
 
@@ -31,7 +31,6 @@ _Before requesting a review you must have completed this checklist._
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation
 - [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Ensured my change works with any recent changes or updates in related components
-- [ ] I have added necessary monitoring to Datadog
+- [ ] I have added necessary monitoring
